@@ -8,7 +8,7 @@ I'm a Senior Software Engineer at xarvio, a leading digital farming subsidiary o
 
 *   🌍  I'm based in Dinslaken, Germany
 *   ✉️  You can contact me at [thomasrommel89@gmail.com](mailto:thomasrommel89@gmail.com)
-*   🚀  I'm currently working on [kraken-analytics.io](http://kraken-analytics.io)
+*   🚀  I'm currently working on [kraken-analytics.io](https://www.kraken-analytics.io)
 *   🧠  I'm learning Rust
 
 ### Skills 
