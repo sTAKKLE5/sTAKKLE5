@@ -8,7 +8,7 @@ I'm a Senior Software Engineer at [xarvio](https://www.xarvio.com/), the leading
 
 *   🌍  I'm based in Dinslaken, Germany
 *   ✉️  You can contact me at [thomasrommel89@gmail.com](mailto:thomasrommel89@gmail.com)
-*   🚀  I'm currently working on [kraken-analytics.io](https://www.kraken-analytics.io), [pizza-punk.io](https://www.pizza-punk.io)
+*   🚀  I'm currently working on [kraken-analytics.io](https://www.kraken-analytics.ai), [pizza-punk.io](https://www.pizza-punk.io)
 *   🧠  I'm learning Rust
 
 ### Skills 
