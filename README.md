@@ -1,7 +1,7 @@
 Hi 👋 My name is Thomas
 =======================
 
-Senior Software Engineer @xarviodf
+Senior Software Engineer @xarvio
 ----------------------------------
 
 I'm a Senior Software Engineer at [xarvio](https://www.xarvio.com/), the leading digital farming subsidiary of BASF. My expertise spans Python and Go programming, intuitive API design, and efficient data processing pipelines. I excel in remote sensing, satellite data interpretation for agriculture, and harnessing the power of AWS for cloud solutions. At xarvio, I've played a pivotal role in advancing digital farming innovations.
@@ -9,7 +9,7 @@ I'm a Senior Software Engineer at [xarvio](https://www.xarvio.com/), the leading
 *   🌍  I'm based in Dinslaken, Germany
 *   ✉️  You can contact me at [thomasrommel89@gmail.com](mailto:thomasrommel89@gmail.com)
 *   🚀  I'm currently working on [kraken-analytics.ai](https://www.kraken-analytics.ai), [pizza-punk.io](https://www.pizza-punk.io)
-*   🧠  I'm learning Rust
+*   🧠  I'm learning Rust & zig
 
 ### Skills 
 <p align="left">
